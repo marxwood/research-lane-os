@@ -1,0 +1,40 @@
+{
+  "version": "v0.1",
+  "generated_by": "research-lane-os-kernel",
+  "lanes": [
+    {
+      "lane_id": "hotels",
+      "lane_name": "Global Hospitality Deal Radar",
+      "status": "active",
+      "scope": "global hospitality assets with priority focus on the Adriatic region",
+      "health": {
+        "radar_health": "stable",
+        "coverage_depth": "mixed",
+        "last_health_update": null
+      },
+      "runtime": {
+        "last_run": null,
+        "last_artifact_generated": null,
+        "candidates_last_24h": 0,
+        "artifacts_last_24h": 0
+      }
+    },
+    {
+      "lane_id": "geopolitics",
+      "lane_name": "Global Geopolitical Stability Radar",
+      "status": "specified",
+      "scope": "global",
+      "health": {
+        "radar_health": "not_started",
+        "coverage_depth": "not_started",
+        "last_health_update": null
+      },
+      "runtime": {
+        "last_run": null,
+        "last_artifact_generated": null,
+        "candidates_last_24h": 0,
+        "artifacts_last_24h": 0
+      }
+    }
+  ]
+}
